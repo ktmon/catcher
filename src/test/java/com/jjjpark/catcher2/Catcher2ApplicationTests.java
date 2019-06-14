@@ -17,12 +17,38 @@ public class Catcher2ApplicationTests {
     }
 
     @Test
+    public void test2() {
+        assertThat(1).isEqualTo(1);
+    }
+
+    @Test
+    public void test3() {
+        assertThat(1).isEqualTo(1);
+    }
+
+    @Test
+    public void test4() {
+        assertThat(1).isEqualTo(1);
+    }
+
+    @Test
+    public void test5() {
+        assertThat(1).isEqualTo(1);
+    }
+
+    @Test
+    public void test6() {
+        assertThat(1).isEqualTo(1);
+    }
+
+    @Test
     public void test_fail() {
-<<<<<<< HEAD
         fail("fail....");
-=======
-        fail("fail...");
->>>>>>> ef87d0561a3f7fe87b212d89933615212a48dd17
+    }
+
+    @Test
+    public void test_fail_2() {
+        fail("fail....");
     }
 
 }
