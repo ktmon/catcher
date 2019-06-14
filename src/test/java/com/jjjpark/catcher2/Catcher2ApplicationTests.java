@@ -16,10 +16,6 @@ public class Catcher2ApplicationTests {
         assertThat(1).isEqualTo(1);
     }
 
-    @Test
-    public void test2() {
-        assertThat(1).isEqualTo(1);
-    }
 
     @Test
     public void test3() {
