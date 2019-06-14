@@ -40,7 +40,7 @@ public class Catcher2ApplicationTests {
 
     @Test
     public void test_fail_2() {
-//        fail("fail....");
+        fail("fail....");
     }
 
 }
