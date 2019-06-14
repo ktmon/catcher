@@ -37,14 +37,14 @@ public class Catcher2ApplicationTests {
         assertThat(1).isEqualTo(1);
     }
 
-    @Test
-    public void test_fail() {
-        fail("fail....");
-    }
-
-    @Test
-    public void test_fail_2() {
-        fail("fail....");
-    }
+//    @Test
+//    public void test_fail() {
+//        fail("fail....");
+//    }
+//
+//    @Test
+//    public void test_fail_2() {
+//        fail("fail....");
+//    }
 
 }
