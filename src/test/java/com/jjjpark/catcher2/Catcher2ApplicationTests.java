@@ -18,7 +18,7 @@ public class Catcher2ApplicationTests {
 
     @Test
     public void test_fail() {
-        fail("fail...");
+        fail("fail....");
     }
 
 }
