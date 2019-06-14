@@ -18,7 +18,11 @@ public class Catcher2ApplicationTests {
 
     @Test
     public void test_fail() {
+<<<<<<< HEAD
         fail("fail....");
+=======
+        fail("fail...");
+>>>>>>> ef87d0561a3f7fe87b212d89933615212a48dd17
     }
 
 }
