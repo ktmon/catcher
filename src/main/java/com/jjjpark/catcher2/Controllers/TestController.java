@@ -32,7 +32,7 @@ public class TestController {
         }
 
     }
-
+//test
     @CrossOrigin
     @GetMapping("/fwrd")
     public String getYoox(){
